@@ -5,19 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
 
-    <groupId>learning.tree</groupId>
-    <artifactId>code.dojo</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <groupId>com.morning.star</groupId>
+    <artifactId>ml.classification.sample</artifactId>
+    <version>1.0</version>
     <build>
         <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <configuration>
-                    <source>1.8</source>
-                    <target>1.8</target>
-                </configuration>
-            </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-shade-plugin</artifactId>
@@ -93,6 +85,11 @@
             <groupId>FastDTW</groupId>
             <artifactId>FastDTW</artifactId>
             <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>egen.solutions</groupId>
+            <artifactId>ennate.egen.solutions.sml</artifactId>
+            <version>0.0.1</version>
         </dependency>
     </dependencies>
 
