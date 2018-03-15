@@ -1,0 +1,3 @@
+2018-03-14 20:21:42,008 [                     main] INFO                          bootstrap.Driver - ==============================================================
+2018-03-14 20:21:42,008 [                     main] INFO                          bootstrap.Driver - Properties file specified at location = src/main/resources/project.properties
+2018-03-14 20:21:42,009 [                     main] INFO                          bootstrap.Driver - ==============================================================
